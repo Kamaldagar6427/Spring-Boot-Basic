@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.opencsv.exceptions.CsvException"/>
+    <fullyQualifiedTypeName name="com.opencsv.bean.CsvToBeanBuilder"/>
+    <fullyQualifiedTypeName name="com.opencsv.bean.CsvToBean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.spring.files.csv.repository.TutorialRepository"/>
+</qualifiedTypeNameHistroy>
